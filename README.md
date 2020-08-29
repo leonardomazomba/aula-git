@@ -4,6 +4,9 @@ git init
 //Adicionar o arquivo ou uma mudança de arquivo ao git
 git add nome_arquivo
 
+//Para adicionar todos os arquivos
+git add .
+
 //Gravar o arquivo nos repositorios do Github
 git commit -m "alterado landingPage"
 
